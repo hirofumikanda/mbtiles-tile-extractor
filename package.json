@@ -1,5 +1,5 @@
 {
-  "name": "distribute-tiles",
+  "name": "mbtiles-tile-extractor",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
